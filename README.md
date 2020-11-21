@@ -7,6 +7,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cigatronix&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=onedark&custom_title=Languages%20I%20Use!" />
 </a>
 
+<a href="https://github.com/Cigatronix">
+  <img align="center" src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cigatronix)](https://github.com/anuraghazra/github-readme-stats)" />
+</a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cigatronix)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I am a Lua and TypeScript front end developer for Interbyte Studios.
 
