@@ -8,11 +8,11 @@
 </a>
 
 I am a developer for Interbyte Studios. I like to program in Luau and Roblox TypeScript.
+I believe that one of the most important things when programming is keeping in mind the readability of your code. Whether you're working alone or in a group, readability solves a lot of issues and can help you maintain your projects for longer periods of time.
 
-🔭 I am currently working on Science Simulator and The Mines for Interbyte Studios.
-
-💬 If you're looking to reach me, the best possible way would be through my discord community. My DMs are off and will stay off for privacy, but I'm always active and respond to people publicly.
+💬 If you're looking to reach me, the best possible way would be through discord (my tag is `Cigatronix#0001`). From time to time I will turn off my DMs for privacy reasons.
 
 🌱 I'm always trying to learn new and innovative ways to program and improve my style.
+
 
 
