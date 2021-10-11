@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cigatronix&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=onedark&custom_title=Languages%20I%20Use!" />
 </a>
 
-I am a developer for Interbyte Studios. I like to program in Luau and Roblox TypeScript. You can check out more about me on my portfolio: <a href="https://cigatronix.github.io/"></a>
+I am a developer for Interbyte Studios. I like to program in Luau and Roblox TypeScript. You can check out more about me on <a href="https://cigatronix.github.io/">my portfolio</a>.
 
 💬 If you're looking to reach me, the best possible way would be through discord (my tag is `Cigatronix#0001`). From time to time I will turn off my DMs for privacy reasons.
 
