@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from America</h3>
 
 <p align="left"> <a href="https://twitter.com/cigatronixr" target="blank"><img src="https://img.shields.io/twitter/follow/cigatronixr?logo=twitter&style=for-the-badge" alt="cigatronixr" /></a> </p>
 
