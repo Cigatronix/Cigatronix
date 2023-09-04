@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate frontend developer from America</h3>
 
 <p align="left"> <a href="https://twitter.com/cigatronixr" target="blank"><img src="https://img.shields.io/twitter/follow/cigatronixr?logo=twitter&style=for-the-badge" alt="cigatronixr" /></a> </p>
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **elledgecr.business@gmail.com**
 
-- 📄 My experiences: Most of the work I've contributed to is private, behind a privatized organization on GitHub. I am looking to contribute to open-source repositories in the near future.
+- 📄 Know about my experiences [Most of the work I've contributed to is private, behind a privatized organization on GitHub. I am looking to contribute to open-source repositories in the near future.](Most of the work I've contributed to is private, behind a privatized organization on GitHub. I am looking to contribute to open-source repositories in the near future.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
