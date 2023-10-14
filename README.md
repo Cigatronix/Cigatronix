@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/cigatronix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/cigatronix" height="30" width="40" /></a>
 <a href="https://twitter.com/cigatronixr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cigatronixr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/christian-elledge-b5b55628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/christian-elledge-b5b55628a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christian-elledge-b5b55628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christian-elledge-b5b55628a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cigatronix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cigatronix" height="30" width="40" /></a>
 </p>
 
