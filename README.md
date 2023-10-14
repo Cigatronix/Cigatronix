@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **elledgecr.business@gmail.com**
 
-- 📄 Know about my experiences [Most of the work I've contributed to is private, behind a privatized organization on GitHub. I am looking to contribute to open-source repositories in the near future.](Most of the work I've contributed to is private, behind a privatized organization on GitHub. I am looking to contribute to open-source repositories in the near future.)
+- 📄 My experiences: Most of the work I've contributed to is private, behind a privatized organization on GitHub. I am looking to contribute to open-source repositories in the near future.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
