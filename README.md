@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate frontend developer from America</h3>
+<h3 align="center">A passionate developer from America</h3>
 
 <p align="left"> <a href="https://twitter.com/cigatronixr" target="blank"><img src="https://img.shields.io/twitter/follow/cigatronixr?logo=twitter&style=for-the-badge" alt="cigatronixr" /></a> </p>
 
 - 🔭 I’m currently working on [multiple projects for Interbyte Studios.](https://github.com/Interbyte-Studios)
 
-- 🌱 I’m currently learning **Vue, Nuxt, and other web-development frameworks.**
+- 🌱 I’m currently learning **C# and .Net.**
 
-- 📫 How to reach me **elledgecr.business@gmail.com**
+- 📫 How to reach me **elledgecre@outlook.com**
 
 - 📄 My experiences: Most of the work I've contributed to is private, behind a privatized organization on GitHub. I am looking to contribute to open-source repositories in the near future.
 
