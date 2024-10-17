@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate developer from America</h3>
 
-<p align="left"> <a href="https://twitter.com/cigatronixr" target="blank"><img src="https://img.shields.io/twitter/follow/cigatronixr?logo=twitter&style=for-the-badge" alt="cigatronixr" /></a> </p>
-
 - 🌱 I’m currently learning **C# and .Net.**
 
 - 📫 How to reach me **elledgecre@outlook.com**
